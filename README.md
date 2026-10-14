@@ -2,7 +2,7 @@
 
 Everyone tees off at once on four holes, from a lakeside par 4 to a desert canyon, a frozen fjord and a volcano island at night. First ball in the cup scores the most, but golf carts, rockets, orbital lasers, tornadoes and banana peels mean nobody gets a quiet putt.
 
-Built with Three.js · Custom 3D golfer & props. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Three.js · Custom 3D golfer & props. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
